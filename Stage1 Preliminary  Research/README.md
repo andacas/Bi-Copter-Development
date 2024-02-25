@@ -1,3 +1,11 @@
+### Stage 1: Preliminary Research and Conceptualization
+
+- [ ] Define Objectives
+- [ ] Literature Review
+- [ ] Conceptual Design
+
+
+### Some interesting videos
 Modelization and control of a quadrotor:   https://www.youtube.com/watch?v=MlnagaOBSiY
 TYI 5010 340 KV Brushless Motor Thrust Test : https://www.youtube.com/watch?v=8cfKnhwWTH8
 
