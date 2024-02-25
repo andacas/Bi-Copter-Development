@@ -1,0 +1,13 @@
+Modelization and control of a quadrotor:   https://www.youtube.com/watch?v=MlnagaOBSiY
+TYI 5010 340 KV Brushless Motor Thrust Test : https://www.youtube.com/watch?v=8cfKnhwWTH8
+
+
+1 | How to simulate a drone motor mathematically : https://www.youtube.com/watch?v=XjhY2tyhYZ8
+
+2 | How to simulate drone dynamics mathematically : https://www.youtube.com/watch?v=edBmZOR61RM
+
+
+
+built videos:
+https://www.youtube.com/watch?v=nDwtfH9CiLk
+https://www.youtube.com/watch?v=Ot3Em2lI9y8
