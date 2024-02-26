@@ -1,4 +1,9 @@
 ### Roadmap for Bi-Copter Development
+In this project we will perform the design, analysis and control of a bi-copter. 
+
+the work is carried out by: 
+Andres Alberto Castro Peñaranda (andres.castro.penaranda@estudiantat.upc.edu )
+Md Zilan Uddin Saif (md.zilan.uddin.saif@estudintat.upc.edu)
 
 #### Stage 1: Preliminary Research and Conceptualization
 - [ ] Define Objectives
